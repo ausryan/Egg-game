@@ -3,7 +3,7 @@ from time import sleep
 import random
 
 #Sense Hat Demo
-#Ryan Jackson
+#Ryan
 #Version 1.0
 #28/02/18
 
